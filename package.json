@@ -1,0 +1,26 @@
+{
+  "name": "react-project-namaste-react",
+  "version": "1.0.0",
+  "description": "This is a dummy project",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ananthanarayananrs/Namaste_React.git"
+  },
+  "author": "Anantha Narayanan R S",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ananthanarayananrs/Namaste_React/issues"
+  },
+  "homepage": "https://github.com/ananthanarayananrs/Namaste_React#readme",
+  "devDependencies": {
+    "parcel": "^2.8.2",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
